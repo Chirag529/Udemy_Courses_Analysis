@@ -29,10 +29,3 @@ Please refer to requirements.txt file for pre-requisites for the project.
 1. Clone this repository.
 2. Install the required dependencies.
 3. Open the Jupyter Notebook file to start the analysis.
-
-## Folder Structure
-
-- `data/`: Contains the dataset file.
-- `notebooks/`: Includes the Jupyter Notebook for analysis.
-- `docs/`: Documentation related to the project.
-
