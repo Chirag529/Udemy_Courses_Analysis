@@ -8,3 +8,4 @@ To run the Jupyter Notebook for this project, you will need:
     - seaborn           # for data visualization ( pip install seaborn )
     - sklearn           # for machine learning ( pip install sklearn )
     - re                # for regular expressions ( pip install re )
+    - klib              # for data cleaning and visualization ( pip install klib )
