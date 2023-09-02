@@ -1,0 +1,10 @@
+To run the Jupyter Notebook for this project, you will need:
+
+- Python (version 3.x)
+- Jupyter Notebook
+- Following Python libraries:
+    - pandas            # for data manipulation and analysis ( pip install pandas )
+    - matplotlib        # for data visualization ( pip install matplotlib )
+    - seaborn           # for data visualization ( pip install seaborn )
+    - sklearn           # for machine learning ( pip install sklearn )
+    
