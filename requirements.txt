@@ -9,3 +9,4 @@ To run the Jupyter Notebook for this project, you will need:
     - sklearn           # for machine learning ( pip install sklearn )
     - re                # for regular expressions ( pip install re )
     - klib              # for data cleaning and visualization ( pip install klib )
+    - wordcloud         # for data visualization of words ( pip install wordcloud )
