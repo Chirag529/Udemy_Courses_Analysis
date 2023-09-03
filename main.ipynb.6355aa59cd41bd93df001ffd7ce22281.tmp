@@ -1,0 +1,4 @@
+# Let's find out course with maximum number of subscribers and print the details
+
+max_subscribers = df["num_subscribers"].max()
+df[df["num_subscribers"] == max_subscribers]
