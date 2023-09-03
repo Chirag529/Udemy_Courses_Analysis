@@ -1,2 +1,0 @@
-# Let's remove the course_id column as it is not required for analysis.
-df.drop(columns=["course_id"], inplace=True)
